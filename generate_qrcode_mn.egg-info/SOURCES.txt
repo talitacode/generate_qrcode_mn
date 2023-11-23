@@ -1,0 +1,8 @@
+README.md
+setup.py
+generate_qrcode_mn.egg-info/PKG-INFO
+generate_qrcode_mn.egg-info/SOURCES.txt
+generate_qrcode_mn.egg-info/dependency_links.txt
+generate_qrcode_mn.egg-info/top_level.txt
+src/__init__.py
+src/qrcode1.py

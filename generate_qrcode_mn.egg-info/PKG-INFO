@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: generate-qrcode-mn
+Version: 0.0.1
+Summary: gerador de imagens de QRcode
+Author: mncodedev
+Author-email: mncodedev@outlook.com
+
+gerador de imagens de QRcode utilizando a biblioteca “ qrcode ”
